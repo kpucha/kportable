@@ -1,0 +1,7 @@
+dist/
+venv/
+build/
+__pycache__/
+.env
+.vscode/
+kportable.spec
